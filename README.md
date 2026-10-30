@@ -1,2 +1,0 @@
-# rkmoni-assets
-rkmoni assets
